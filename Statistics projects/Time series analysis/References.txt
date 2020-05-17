@@ -1,0 +1,7 @@
+Chatfield, C. (2004). The analysis of time series: an introduction. Florida, US: CRC Press.
+
+R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+
+Venables, W. N. & Ripley, B. D. (2002) Modern Applied Statistics with S. Fourth Edition. Springer, New York. ISBN 0-387-95457-0
+
+United States housing bubble. (2006). In Wikipedia. Retrieved December 17, 2019. from https://en.wikipedia.org/wiki/United_States_housing_bubble

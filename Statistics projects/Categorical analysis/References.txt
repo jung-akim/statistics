@@ -1,0 +1,11 @@
+Student Opinion of Teaching Effectiveness (SOTE). Fall 2016 - Spring 2017, San Jose State University
+
+Lee, B. (2019). MATH258: Categorical Data Analysis, topic A-F, [PDF slides].
+
+R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+
+Andri Signorell et mult. al. (2019). DescTools: Tools for descriptive statistics. R package version 0.99.29.
+
+Youden's J statistic. (n.d.). In Wikipedia. Retrieved December 17, 2019. from https://en.wikipedia.org/wiki/Youden%27s_J_statistic
+
+
